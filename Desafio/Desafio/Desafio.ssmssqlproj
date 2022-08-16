@@ -25,6 +25,12 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>DDL.sql</FullPath>
         </FileNode>
+        <FileNode Name="DDL_Com_IF.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NOTE_STHEVAN\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NOTE_STHEVAN\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>DDL_Com_IF.sql</FullPath>
+        </FileNode>
         <FileNode Name="DML.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NOTE_STHEVAN\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>NOTE_STHEVAN\SQLEXPRESS</AssociatedConnSrvName>
@@ -36,12 +42,6 @@
           <AssociatedConnSrvName>NOTE_STHEVAN\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>DQL.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery1.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NOTE_STHEVAN\SQLEXPRESS:False:sa</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>NOTE_STHEVAN\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName>sa</AssociatedConnUserName>
-          <FullPath>SQLQuery1.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
